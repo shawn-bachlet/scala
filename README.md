@@ -1,2 +1,2 @@
-# scala
+# Scala
 Scala libraries and projects
